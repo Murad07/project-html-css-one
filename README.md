@@ -14,3 +14,9 @@
 - command before doing new change if other one work on this repository.
 
 1. git pull
+
+\*\* Branch
+
+1. Crate branch from git hub site.
+2. Change branch by command: git checkout branchName
+3. create branch by command: git checkout -b branchName
