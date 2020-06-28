@@ -15,8 +15,12 @@
 
 1. git pull
 
-\*\* Branch
+** Branch Create and Switch **
 
 1. Crate branch from git hub site.
 2. Change branch by command: git checkout branchName
 3. create branch by command: git checkout -b branchName
+
+** Branch Check **
+
+1. git branch -a
